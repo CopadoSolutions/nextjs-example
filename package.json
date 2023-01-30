@@ -13,6 +13,7 @@
   },
   "devDependencies": {
     "eslint": "^8.33.0",
-    "eslint-config-next": "^13.1.6"
+    "eslint-config-next": "^13.1.6",
+    "s3-deploy": "^1.4.0"
   }
 }
